@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Hong Jiang
 
-#### I am the cofounder of LeanCloud
+#### I am the cofounder of [LeanCloud](https://www.leancloud.cn) and the head of [TapTap](https://www.taptap.cn) Developer Services.
 
 My GitHub account includes various experiments and hobby projects.
 
