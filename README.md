@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Hong Jiang
 
-#### I am the cofounder of [LeanCloud](https://www.leancloud.cn) and the head of [TapTap](https://www.taptap.cn) Developer Services.
+#### My website is https://1byte.io
 
 My GitHub account includes various experiments and hobby projects.
 
